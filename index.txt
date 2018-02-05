@@ -4,3 +4,4 @@ third line of code
 fourth line of code
 fifth line of codie
 sixth line
+changed in master for conflict
